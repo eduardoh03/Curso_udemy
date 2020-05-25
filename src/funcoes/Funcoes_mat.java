@@ -1,3 +1,4 @@
+package funcoes;
 public class Funcoes_mat {
 	public static void main(String[] args) {
 		double x = 3.0;

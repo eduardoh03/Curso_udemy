@@ -1,3 +1,4 @@
+package funcoes;
 
 public class Funções_string {
 
